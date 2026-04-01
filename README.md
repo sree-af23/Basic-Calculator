@@ -3,11 +3,13 @@
 A simple command-line calculator built using Python.
 
 ## Features
-- Addition, subtraction, multiplication, division
-- User input handling
-- Basic control flow and functions
+-menu based calc_v1
+-error handling
+-utilizes loops
+-advanced multiple expression based calc_v2 
 
 ## How to Run
 1. Clone the repository
-2. Run: Calc.py
+2. Run: Calc.py (calc_v1)
+3. Run: Calc_v2.py (calc_v2)
 
